@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago e esse é meu perfil no git 😊
 
-- 🔭 Estudante de engenharia de software na ufg (2º periodo atualmente) e formado em desenvolvimento WEB pela Trybe(os projetos feitos durante o curso serao disponibilizados após o dia 12/12).
+- 🔭 Estudante de engenharia de software na ufg (2º periodo atualmente) e formado em desenvolvimento WEB pela Trybe
 - 😄 Pronouns: ele/dele.
 - Linguagens de conhecimento: C, JavaScript, Python, Html/Css, Sql
 - Meus certificados:
