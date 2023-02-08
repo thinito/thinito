@@ -3,7 +3,7 @@
 - 🔭 Estudante de engenharia de software na ufg (2º periodo atualmente) e formado em desenvolvimento WEB pela Trybe
 - 😄 Pronouns: ele/dele.
 - Email de contato: thiagogomez2906@hotmail.com
-- ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - :https://www.linkedin.com/in/thiago-gomez-0a56871a7/
 - Linguagens de conhecimento: C, JavaScript, Python, Html/Css, Sql
 - Meus certificados:
