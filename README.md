@@ -29,4 +29,3 @@ Contatos:
   -[Ciência da computação](https://www.credential.net/94b8c9fa-4de3-48f6-ad9e-c84c0633337a?record_view=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinito&layout=compact&theme=dark)](https://github.com/thinito/github-readme-stats)
