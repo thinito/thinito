@@ -1,8 +1,7 @@
 ### Olá, eu sou o Thiago e esse é meu perfil no git 😊
 
-🔭 Sou um estudante de engenharia de software na UFG-Goias (3º periodo atualmente) e formado em desenvolvimento WEB pela Trybe,tenho 21 anos e sou de goiânia.
+🔭 Sou um estudante de engenharia de software na UFG-Goias,tenho 24 anos e sou de goiânia.
 
-😄 Pronouns: ele/dele.
 
 Contatos:
 
