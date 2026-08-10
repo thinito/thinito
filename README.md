@@ -9,16 +9,7 @@ Contatos:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=link><a/>
   <a href="mailto:thiagogomez2906@hotmail.com" target="mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="mail"><a/>
-  
-- Skills:
-  
-  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
+
 - Meus certificados:
     
   -[Front-End](https://www.credential.net/8648073e-d135-4b1e-a764-5532f39afd0b?record_view=true)
