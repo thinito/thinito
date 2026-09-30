@@ -1,13 +1,13 @@
 ### Olá, eu sou o Thiago e esse é meu perfil no git 😊
 
-🔭 Sou um estudante de engenharia de software na UFG-Goias,tenho 24 anos e sou de goiânia.
+🔭 Sou um estudante de engenharia de software na UFG-Goias,tenho 25 anos e sou de goiânia.
 
 
 Contatos:
 
   <a href="https://www.linkedin.com/in/thiago-gomez-0a56871a7/" target="link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=link><a/>
-  <a href="mailto:thiagogomez2906@hotmail.com" target="mail">
+  <a href="mailto:thiagogomezrt2906@gmail.com" target="mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="mail"><a/>
 
 <!--- Meus certificados:
